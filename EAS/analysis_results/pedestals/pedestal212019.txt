@@ -1,0 +1,1 @@
+stID	meanCH0	sigmaCH0	meanCH2	sigmaCH2
